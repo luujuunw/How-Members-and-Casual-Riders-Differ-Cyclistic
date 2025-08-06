@@ -1,1 +1,1 @@
-# How-Members-and-Casual-Riders-Differ-Cyclistic
+# How Members and Casual Riders Differ Cyclistic
